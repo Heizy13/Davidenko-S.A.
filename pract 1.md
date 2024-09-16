@@ -22,6 +22,7 @@
 139 hip
 138 manet
 ```
+![image](https://github.com/Heizy13/image/blob/main/2з.png)
 
 ## Задача 3
 
@@ -36,6 +37,9 @@
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 
+![image](https://github.com/Heizy13/image/blob/main/3_1.png)
+![image](https://github.com/Heizy13/image/blob/main/3_2.png)
+
 ## Задача 4
 
 Написать программу для вывода всех идентификаторов (по правилам C/C++ или Java) в файле (без повторений).
@@ -45,6 +49,8 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![image](https://github.com/Heizy13/image/blob/main/4_1.png)
+![image](https://github.com/Heizy13/image/blob/main/4_2.png)
 
 ## Задача 5
 
@@ -58,25 +64,43 @@ h hello include int main n printf return stdio void world
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
 
+![image](https://github.com/Heizy13/image/blob/main/5_1true.png)
+![image](https://github.com/Heizy13/image/blob/main/5_2.png)
+
 ## Задача 6
 
 Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
+
+![image](https://github.com/Heizy13/image/blob/main/6_1.png)
+![image](https://github.com/Heizy13/image/blob/main/6_2.png)
 
 ## Задача 7
 
 Написать программу для нахождения файлов-дубликатов (имеющих 1 или более копий содержимого) по заданному пути (и подкаталогам).
 
+![image](https://github.com/Heizy13/image/blob/main/7_1.png)
+![image](https://github.com/Heizy13/image/blob/main/7_2.png)
+
 ## Задача 8
 
 Написать программу, которая находит все файлы в данном каталоге с расширением, указанным в качестве аргумента и архивирует все эти файлы в архив tar.
+
+![image](https://github.com/Heizy13/image/blob/main/8_1.png)
+![image](https://github.com/Heizy13/image/blob/main/8_2.png)
 
 ## Задача 9
 
 Написать программу, которая заменяет в файле последовательности из 4 пробелов на символ табуляции. Входной и выходной файлы задаются аргументами.
 
+![image](https://github.com/Heizy13/image/blob/main/9_1.png)
+![image](https://github.com/Heizy13/image/blob/main/9_2.png)
+
 ## Задача 10
 
 Написать программу, которая выводит названия всех пустых текстовых файлов в указанной директории. Директория передается в программу параметром. 
+
+![image](https://github.com/Heizy13/image/blob/main/10_1.png)
+![image](https://github.com/Heizy13/image/blob/main/10_2.png)
 
 ## Полезные ссылки
 
