@@ -1,1 +1,0 @@
-# Davidenko-S.A.
